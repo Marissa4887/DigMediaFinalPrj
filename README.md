@@ -1,10 +1,10 @@
 <p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
 
 # I POSTED MY TEXT HERE FOR THE SIMPLE EXERCISE FOR DIG5508
-
+# I made more changes and dont have markup
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 
-The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
+The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications. 
 
 [Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
 
